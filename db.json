@@ -1,3 +1,63 @@
 {
-"name":"RG"
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Rohit",
+      "contactPrefrences": "mobilePhone",
+      "mobilePhone": "9675500039`",
+      "passwordgroup": {
+        "password": "12",
+        "confirmPassword": "12"
+      },
+      "imagePath": "assets/images/male.png",
+      "skills": [
+        {
+          "skillName": "Angular",
+          "experienceInYears": 3,
+          "proficiency": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "fullName": "Aarohi",
+      "contactPrefrences": "email",
+      "email": "sarohi@rohitguptarg.com",
+      "passwordgroup": {
+        "password": "a123",
+        "confirmPassword": "a123"
+      },
+      "imagePath": "assets/images/female.png",
+      "skills": [
+        {
+          "skillName": "C#",
+          "experienceInYears": 3,
+          "proficiency": "Advanced"
+        },
+        {
+          "skillName": "Angular ",
+          "experienceInYears": 3,
+          "proficiency": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "fullName": "NIdheesh ",
+      "contactPrefrences": "email",
+      "email": "abc@rohitguptarg.com",
+      "skills": [
+        {
+          "skillName": "Java",
+          "experienceInYears": 2,
+          "proficiency": "Intermediate"
+        }
+      ],
+      "passwordgroup": {
+        "password": "nidheesh",
+        "confirmPassword": "nidheesh"
+      },
+      "imagePath": "assets/images/male.png"
+    }
+  ]
 }
